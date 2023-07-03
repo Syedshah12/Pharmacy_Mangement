@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ /* .bor_1{
+    border: 1px solid rgb(55, 53, 53);
+} 
+ .bor_2{
+    border: 1px solid rgb(55, 53, 53);
+
+} */
+
+.bor_3{
+    border: 1px solid rgb(55, 53, 53);
+    border-radius: 12px;
+    
+
+}
